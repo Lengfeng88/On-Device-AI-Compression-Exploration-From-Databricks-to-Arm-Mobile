@@ -37,7 +37,7 @@ As a workaround, we **manually compiled results** and created a static visualiza
 *All four compression experiments tracked in MLflow.*
 
 ![Delta Lake Dashboard](screenshots/Delta_Lake_dashboard.png)  
-*Latency vs Accuracy trade-off (manually visualized due to Free Edition limits).*
+*Latency vs Accuracy trade-off (Delta Lake Dashboard).*
 
 ## 🎥 Demo Video
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
