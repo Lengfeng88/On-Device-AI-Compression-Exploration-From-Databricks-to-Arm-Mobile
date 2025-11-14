@@ -23,7 +23,7 @@ Built entirely on **Databricks Free Edition**, we demonstrate a full MLOps pipel
 ✅ **Key Insight**: Structured pruning achieves the best trade-off—**69.6% accuracy at just 26.7 ms latency (37 FPS)**—making it the ideal candidate for on-device AI.
 
 ## 🛠️ Lakehouse & Limitations
-We attempted to use **Delta Lake** for structured result storage and versioning. However, **Databricks Free Edition** lacks Unity Catalog and has concurrency restrictions, preventing automated Dashboard generation.
+We attempted to use **Delta Lake** for structured result storage and versioning. However, **Databricks Free Edition** lacks Unity Catalog and cannot create the model_benchmarks, preventing automated Dashboard generation.
 
 As a workaround, we **manually compiled results** and created a static visualization—demonstrating real-world adaptability in constrained environments.
 
