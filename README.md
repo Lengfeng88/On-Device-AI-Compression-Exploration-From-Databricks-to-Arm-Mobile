@@ -36,7 +36,7 @@ As a workaround, we **manually compiled results** and created a static visualiza
 ![MLflow Runs](screenshots/mlflow_runs.png)  
 *All four compression experiments tracked in MLflow.*
 
-![Manual Dashboard](screenshots/manual_dashboard.png)  
+![Delta Lake Dashboard](screenshots/Delta_Lake_dashboard.png)  
 *Latency vs Accuracy trade-off (manually visualized due to Free Edition limits).*
 
 ## 🎥 Demo Video
